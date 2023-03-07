@@ -1,0 +1,8 @@
+.letterlist {
+  background-color: rgb(189, 189, 232);
+  color: white;
+  /* display: inline-block; Why this doesn't work? */
+  display: flex;
+  list-style-type: none;
+  padding: 15px
+}
